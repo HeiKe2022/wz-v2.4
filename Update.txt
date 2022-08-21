@@ -1,0 +1,21 @@
+                                                         Version 2.4
+
+Kill Aura 
+Pet Skill
+Auto Farm
+Collect Drops
+LED head lamp
+Infinite Jump
+Sprint Speed
+
+
+
+Add delay 6 sec for open chest
+Add Auto collect equipment chest
+Deleted some code are no longer in use
+Changed in open world warning from ban risk to DO NOT USE
+
+Demon: 
+rewrote logic of kill aura
+added superspeed ult charging
+added ultimate mode always on
