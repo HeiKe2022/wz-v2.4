@@ -9,7 +9,7 @@ Infinite Jump
 Sprint Speed
 
 
-
+Add Elementalist class
 Add delay 6 sec for open chest
 Add Auto collect equipment chest
 Deleted some code are no longer in use
