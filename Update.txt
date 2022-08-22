@@ -13,9 +13,12 @@ Add Elementalist class
 Add delay 6 sec for open chest
 Add Auto collect equipment chest
 Deleted some code are no longer in use
+Remove purchase prompt when attempt to open seconddrop
 Changed in open world warning from ban risk to DO NOT USE
 
-Demon: 
+Demon:
 rewrote logic of kill aura
-added superspeed ult charging
-added ultimate mode always on
+added lightning speed ult charger
+added ultimate mode infinitively on
+Mage of Light:
+added anti seizure 
